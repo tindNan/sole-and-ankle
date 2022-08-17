@@ -26,7 +26,7 @@ const Wrapper = styled.div`
   display: flex;
   gap: 32px;
   font-size: 0.875rem;
-  padding: 8px 24px;
+  padding: 8px 32px;
   color: ${COLORS.gray[300]};
   background-color: ${COLORS.gray[900]};
 `;
